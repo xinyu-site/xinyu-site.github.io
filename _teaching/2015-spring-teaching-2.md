@@ -1,20 +1,21 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant 2"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "post-graduate course"
+venue: "Beihang University, Institute of Artificial Intelligence"
+date: 2021.09 - 2021.01
+location: "Beijing, China"
 ---
+Guided junior in the subjects of "Reinforcement Learning and its Application" and taught some learning and practical skills
 
-This is a description of a teaching experience. You can use markdown like any other post.
+---
+title: "Teaching Assistant 2"
+collection: teaching
+type: "post-graduate course"
+permalink: /teaching/2014-spring-teaching-1
+venue: "Beihang University"
+date: 2019.09 - 2020.01
+location: "Beijing, China"
+---
+Guided post-graduate in the subjects of "Scientific Writing and Reporting" and taught some writing skills
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
