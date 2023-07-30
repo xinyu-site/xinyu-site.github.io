@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at the State Key Laboratory of Software Development Environment (SKLSDE) and School of Computer Science and Engineering (SCSE) , Beihang University, Beijing, China, supervised by Prof. Wenjun Wu.
+I am a Ph.D. student at the State Key Laboratory of Software Development Environment (SKLSDE) and School of Computer Science and Engineering (SCSE) , Beihang University, Beijing, China, supervised by Prof. <a href="https://iai.buaa.edu.cn/info/1013/1093.htm">Wenjun Wu</a> and <a href="https://rongyeshi.github.io/">Rongye Shi</a>.
 
 Research
 ======
@@ -33,9 +33,9 @@ Selected Publications
 Reinforcement Learning** <br>**Xin Yu**, Rongye Shi, Pu Feng, Yongkai Tian, Jie Luo, Wenjun Wu <br><a href="https://ecai2023.eu/">ECAI 2023 (CCF B)</a> $\vert$ <a href="https://xinyu-site.github.io/esp-marl/pdf/esp.pdf">pdf</a> $\vert$<a href="https://xinyu-site.github.io/esp-marl"> Project page</a>
 1. **Swarm inverse reinforcement learning for biological systems** <br>**Xin Yu**, Pu Feng, Yongkai Tian, Wenjun Wu<br><a href="https://ieeebibm.org/BIBM2021/">BIBM (CCF B)</a> $\vert$ <a href="../files/bibm.pdf">pdf</a> 
 2. **MACT: Multi-agent Collision Avoidance with Continuous Transition Reinforcement Learning via Mixup** <br>Pu Feng, **Xin Yu**, Junkang Liang, Wenjun Wu, Yongkai Tian. <br><a href="https://link.springer.com/conference/swarm">ICSI</a> $\vert$ <a href="../files/icsi.pdf">pdf</a>
-4. **Byzantine Robust Cooperative Multi-Agent Reinforcement Learning as a Bayesian Game** <br>Simin Li, Jun Guo, Jingqiao Xiu, **Xu Yu**, Jiakai Wang, Aishan Liu, Yaodong Yang, Xianglong Liu<br>
+3. **Byzantine Robust Cooperative Multi-Agent Reinforcement Learning as a Bayesian Game** <br>Simin Li, Jun Guo, Jingqiao Xiu, **Xu Yu**, Jiakai Wang, Aishan Liu, Yaodong Yang, Xianglong Liu<br>
 <a href="https://arxiv.org/pdf/2305.12872.pdf">arXiv preprint</a>
-5. **Attacking Cooperative Multi-Agent Reinforcement Learning by Adversarial Minority Influence** <br>Simin Li, Jun Guo, Jingqiao Xiu, Pu Feng, Xin Yu, Jiakai Wang, Aishan Liu, Wenjun Wu, Xianglong Liu<br>
+1. **Attacking Cooperative Multi-Agent Reinforcement Learning by Adversarial Minority Influence** <br>Simin Li, Jun Guo, Jingqiao Xiu, Pu Feng, Xin Yu, Jiakai Wang, Aishan Liu, Wenjun Wu, Xianglong Liu<br>
 <a href="https://arxiv.org/pdf/2302.03322.pdf">arXiv preprint</a>
 
 Projects
