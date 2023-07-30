@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xin Yu  于鑫"
 title_separator          : "-"
 name                     : &name "Xin Yu"
-description              : &description "Ph.D. student at Beihang University, interested in Muliti-agent Systems"
+description              : &description "Ph.D. student at Beihang University"
 url                      : https://xinyu-site.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xin Yu"
   avatar           : "pic.jpg"
-  bio              : "Phd student at Beihang University"
+  bio              : "Ph.D. student at Beihang University, interested in multi-agent reinforcement learning"
   location         : "Beijing, China"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
