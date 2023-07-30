@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xin Yu (于鑫)"
+title                    : "Xin Yu  于鑫"
 title_separator          : "-"
 name                     : &name "Xin Yu"
-description              : &description "Ph.D. student at Beihang Universityinterested in Muliti-agent Systems"
+description              : &description "Ph.D. student at Beihang University, interested in Muliti-agent Systems"
 url                      : https://xinyu-site.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
