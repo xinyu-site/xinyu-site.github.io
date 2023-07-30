@@ -30,7 +30,7 @@ Skills
   * Reinforcement learning
   * Multi-agent reinforcement learning
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -46,8 +46,9 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Conference Reviewers of ECAI
+* Conference Reviewers of ECML-PKDD
