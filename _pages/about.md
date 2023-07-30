@@ -35,7 +35,7 @@ Reinforcement Learning** <br>**Xin Yu**, Rongye Shi, Pu Feng, Yongkai Tian, Jie 
 
 Projects
 ======
-  <li><strong>[Science and Technology Innovation 2030—“New Generation Artificial Intelligence” Major Project]</strong> I participated in the "Research on crowd intelligence inspired convergence for crowd behavior" project.     
+  <li><strong>[Science and Technology Innovation 2030 Major Project]</strong> I participated in the "Research on crowd intelligence inspired convergence for crowd behavior" project.     
   </li>
   
   <li><strong>[National Key R&D Program of China]</strong> I participated in the "Intelligent Service Adaptation Theory and Key Technologies" project. 
