@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Summer 2018: algorithm engineer intern
+* Summer 2018: Algorithm Engineer Intern
   * JD Logistics
   * Duties included: Responsible for optimizing logistics packing algorithm.
 
