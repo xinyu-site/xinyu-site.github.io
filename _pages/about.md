@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is pronounced as shin-yoo. I am a Ph.D. student at the State Key Laboratory of Software Development Environment (SKLSDE) and School of Computer Science and Engineering (SCSE) , Beihang University, Beijing, China, supervised by Prof. <a href="https://iai.buaa.edu.cn/info/1013/1093.htm">Wenjun Wu</a> and <a href="https://rongyeshi.github.io/">Rongye Shi</a>.
+My name is pronounced as shin-yoo. I am a Ph.D. student at the State Key Laboratory of Software Development Environment (SKLSDE) and School of Computer Science and Engineering (SCSE) , Beihang University, Beijing, China, supervised by Prof. <a href="https://www.researchgate.net/profile/Wenjun-Wu-15">Wenjun Wu</a> and <a href="https://rongyeshi.github.io/">Rongye Shi</a>.
 
 Research
 ======
@@ -32,6 +32,10 @@ Reinforcement Learning** <br>**Xin Yu**, Rongye Shi, Pu Feng, Yongkai Tian, Jie 
 <a href="https://arxiv.org/pdf/2305.12872.pdf">arXiv preprint</a>
 1. **Attacking Cooperative Multi-Agent Reinforcement Learning by Adversarial Minority Influence** <br>Simin Li, Jun Guo, Jingqiao Xiu, Pu Feng, **Xin Yu**, Jiakai Wang, Aishan Liu, Wenjun Wu, Xianglong Liu<br>
 <a href="https://arxiv.org/pdf/2302.03322.pdf">arXiv preprint</a>
+
+Book
+======
+I am one of the writers of the book "AIDevOps: Principles and Practices of Development, Operation and Maintenance of Intelligent Microservices".
 
 Projects
 ======
