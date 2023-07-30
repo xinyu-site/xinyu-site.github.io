@@ -16,23 +16,10 @@ My research focuses on multi-agent reinforcement learning. My goal is to enhance
 
 News
 ======
-<!-- <p style="font-size:16px"> <strong>[2023.07]</strong> One first-authored paper on physical-informed MARL accepted by ECAI 2023.</p>
-<p style="font-size:16px"> <strong>[2023.06]</strong> One co-authored paper on efficient MARL accepted by ICSI 2023.</p>
-<p style="font-size:16px"> <strong>[2023.06]</strong> One co-authored paper on multi-agent robust submitted to TNNLS.</p>
-<p style="font-size:16px"> <strong>[2023.05]</strong> One co-authored paper on multi-agent robust submitted to NeurIPS 2023.</p> -->
-
-
-<p style="line-height:1.2">
-
-**[2023.07]** One first-authored paper on physical-informed MARL accepted by ECAI 2023.
-
-**[2023.06]** One co-authored paper on efficient MARL accepted by ICSI 2023.
-
-**[2023.06]** One co-authored paper on multi-agent robust submitted to TNNLS.
-
-**[2023.05]** One co-authored paper on multi-agent robust submitted to NeurIPS 2023.
-
-</p>
+<p style="font-size:18px"> <strong>[2023.07]</strong> One first-authored paper on physical-informed MARL accepted by ECAI 2023.</p>
+<p style="font-size:18px"> <strong>[2023.06]</strong> One co-authored paper on efficient MARL accepted by ICSI 2023.</p>
+<p style="font-size:18px"> <strong>[2023.06]</strong> One co-authored paper on multi-agent robust submitted to TNNLS.</p>
+<p style="font-size:18px"> <strong>[2023.05]</strong> One co-authored paper on multi-agent robust submitted to NeurIPS 2023.</p>
 
 
 Selected Publications
