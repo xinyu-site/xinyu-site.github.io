@@ -18,8 +18,8 @@ News
 ======
 <p style="font-size:18px"> <strong>[2023.07]</strong> One first-authored paper on physical-informed MARL accepted by ECAI 2023.</p>
 <p style="font-size:18px"> <strong>[2023.06]</strong> One co-authored paper on efficient MARL accepted by ICSI 2023.</p>
-<p style="font-size:18px"> <strong>[2023.06]</strong> One co-authored paper on multi-agent robust submitted to TNNLS.</p>
-<p style="font-size:18px"> <strong>[2023.05]</strong> One co-authored paper on multi-agent robust submitted to NeurIPS 2023.</p>
+<p style="font-size:18px"> <strong>[2023.06]</strong> One co-authored paper on robust MARL submitted to TNNLS.</p>
+<p style="font-size:18px"> <strong>[2023.05]</strong> One co-authored paper on robust MARL submitted to NeurIPS 2023.</p>
 
 
 Selected Publications
