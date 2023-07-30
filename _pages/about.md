@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at the State Key Laboratory of Software Development Environment (SKLSDE) and School of Computer Science and Engineering (SCSE) , Beihang University, Beijing, China, supervised by Prof. <a href="https://iai.buaa.edu.cn/info/1013/1093.htm">Wenjun Wu</a> and <a href="https://rongyeshi.github.io/">Rongye Shi</a>.
+My name is pronounced as shin-yoo. I am a Ph.D. student at the State Key Laboratory of Software Development Environment (SKLSDE) and School of Computer Science and Engineering (SCSE) , Beihang University, Beijing, China, supervised by Prof. <a href="https://iai.buaa.edu.cn/info/1013/1093.htm">Wenjun Wu</a> and <a href="https://rongyeshi.github.io/">Rongye Shi</a>.
 
 Research
 ======
