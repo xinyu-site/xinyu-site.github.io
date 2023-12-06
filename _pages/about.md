@@ -27,7 +27,7 @@ Recent News
 Publications
 ======
 1. **ESP: Exploiting Symmetry Prior for Multi-Agent
-Reinforcement Learning** <br>**Xin Yu**, Rongye Shi, Pu Feng, Yongkai Tian, Jie Luo, Wenjun Wu <br><a href="https://ecai2023.eu/">ECAI 2023 (CCF B)</a> $\vert$ <a href="https://xinyu-site.github.io/esp-marl/pdf/esp.pdf">pdf</a> $\vert$<a href="https://xinyu-site.github.io/esp-marl"> Project page</a>
+Reinforcement Learning** <br>**Xin Yu**, Rongye Shi, Pu Feng, Yongkai Tian, Jie Luo, Wenjun Wu <br><a href="https://ecai2023.eu/">ECAI 2023 (CCF B)</a> $\vert$ <a href="../files/ecai.pdf">pdf</a> $\vert$<a href="https://xinyu-site.github.io/esp-marl"> Project page</a>
 2. **Swarm inverse reinforcement learning for biological systems** <br>**Xin Yu**, Pu Feng, Yongkai Tian, Wenjun Wu<br><a href="https://ieeebibm.org/BIBM2021/">BIBM 2021 (CCF B)</a> $\vert$ <a href="../files/bibm.pdf">pdf</a> 
 3. **AdaptAUG: Adaptive Data Augmentation Framework for Multi-Agent Reinforcement Learning** <br>**Xin Yu**,Yongkai Tian, Li Wang, Pu Feng, Wenjun Wu, Rongye Shi<br>  (Submitted to ICRA 2024)
 4. **Leveraging Partial Symmetry for Multi-Agent Reinforcement Learning** <br>**Xin Yu**, Rongye Shi, Yongkai Tian,Simin Li,Shuhao Liao, Wenjun Wu <br> (Submitted to AAAI 2024)
