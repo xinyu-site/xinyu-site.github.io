@@ -18,10 +18,11 @@ Recent News
 ======
 <p style="font-size:18px"> <strong>[2023.12]</strong> One first-authored paper on physical-informed MARL accepted by AAAI2024.</p>
 <p style="font-size:18px"> <strong>[2023.12]</strong> One Co-authored paper on reinforcement learning accepted by ICDE2024.</p>
+<p style="font-size:18px"> <strong>[2023.11]</strong> One co-authored paper on robust MARL submitted to TCYB.</p>
 <p style="font-size:18px"> <strong>[2023.09]</strong> One first-authored paper on Multi-robot submitted to ICRA 2024.</p>
 <p style="font-size:18px"> <strong>[2023.07]</strong> One first-authored paper on physical-informed MARL accepted by ECAI 2023.</p>
 <p style="font-size:18px"> <strong>[2023.06]</strong> One co-authored paper on efficient MARL accepted by ICSI 2023.</p>
-<p style="font-size:18px"> <strong>[2023.06]</strong> One co-authored paper on robust MARL submitted to TNNLS.</p>
+
 
 
 Publications
@@ -29,11 +30,11 @@ Publications
 1. **ESP: Exploiting Symmetry Prior for Multi-Agent
 Reinforcement Learning** <br>**Xin Yu**, Rongye Shi, Pu Feng, Yongkai Tian, Jie Luo, Wenjun Wu <br><a href="https://ecai2023.eu/">ECAI 2023 (CCF B)</a> $\vert$ <a href="../files/ecai.pdf">pdf</a> $\vert$<a href="https://xinyu-site.github.io/esp-marl"> Project page</a>
 2. **Swarm inverse reinforcement learning for biological systems** <br>**Xin Yu**, Pu Feng, Yongkai Tian, Wenjun Wu<br><a href="https://ieeebibm.org/BIBM2021/">BIBM 2021 (CCF B)</a> $\vert$ <a href="../files/bibm.pdf">pdf</a> 
-3. **AdaptAUG: Adaptive Data Augmentation Framework for Multi-Agent Reinforcement Learning** <br>**Xin Yu**,Yongkai Tian, Li Wang, Pu Feng, Wenjun Wu, Rongye Shi<br>  (Submitted to ICRA 2024)
-4. **Leveraging Partial Symmetry for Multi-Agent Reinforcement Learning** <br>**Xin Yu**, Rongye Shi, Yongkai Tian,Simin Li,Shuhao Liao, Wenjun Wu <br> (Submitted to AAAI 2024)
+3. **Leveraging Partial Symmetry for Multi-Agent Reinforcement Learning** <br>**Xin Yu**, Rongye Shi, Yongkai Tian,Simin Li,Shuhao Liao, Wenjun Wu <br> (Accepted by AAAI 2024)
+4. **AdaptAUG: Adaptive Data Augmentation Framework for Multi-Agent Reinforcement Learning** <br>**Xin Yu**,Yongkai Tian, Li Wang, Pu Feng, Wenjun Wu, Rongye Shi<br>  (Submitted to ICRA 2024)
 5. **Safe and efficient multi-agent collision avoidance with physics-informed reinforcement learning**,<br>Pu Feng, Rongye Shi, Size Wang, Junkang Liang,**Xin Yu**, Wenjun Wu <br> (Submitted to ICRA 2024)
-3. **MACT: Multi-agent Collision Avoidance with Continuous Transition Reinforcement Learning via Mixup** <br>Pu Feng, **Xin Yu**, Junkang Liang, Wenjun Wu, Yongkai Tian. <br><a href="https://link.springer.com/conference/swarm">ICSI</a> $\vert$ <a href="../files/icsi.pdf">pdf</a>
-4. **Byzantine Robust Cooperative Multi-Agent Reinforcement Learning as a Bayesian Game** <br>Simin Li, Jun Guo, Jingqiao Xiu, **Xu Yu**, Jiakai Wang, Aishan Liu, Yaodong Yang, Xianglong Liu<br>
+6. **MACT: Multi-agent Collision Avoidance with Continuous Transition Reinforcement Learning via Mixup** <br>Pu Feng, **Xin Yu**, Junkang Liang, Wenjun Wu, Yongkai Tian. <br><a href="https://link.springer.com/conference/swarm">ICSI</a> $\vert$ <a href="../files/icsi.pdf">pdf</a>
+7. **Byzantine Robust Cooperative Multi-Agent Reinforcement Learning as a Bayesian Game** <br>Simin Li, Jun Guo, Jingqiao Xiu, **Xu Yu**, Jiakai Wang, Aishan Liu, Yaodong Yang, Xianglong Liu<br>
 <a href="https://arxiv.org/pdf/2305.12872.pdf">arXiv preprint</a>
 1. **Attacking Cooperative Multi-Agent Reinforcement Learning by Adversarial Minority Influence** <br>Simin Li, Jun Guo, Jingqiao Xiu, Pu Feng, **Xin Yu**, Jiakai Wang, Aishan Liu, Wenjun Wu, Xianglong Liu<br>
 <a href="https://arxiv.org/pdf/2302.03322.pdf">arXiv preprint</a>
