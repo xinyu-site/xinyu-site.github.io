@@ -23,14 +23,14 @@ Recent News
 <p style="font-size:18px"> <strong>[2023.07]</strong> One first-authored paper on physical-informed MARL accepted by ECAI 2023.</p>
 <p style="font-size:18px"> <strong>[2023.06]</strong> One co-authored paper on efficient MARL accepted by ICSI 2023.</p>
 
-
+3.  (Accepted by AAAI 2024)
 
 Publications
 ======
-1. **ESP: Exploiting Symmetry Prior for Multi-Agent
+1. **Leveraging Partial Symmetry for Multi-Agent Reinforcement Learning** <br>**Xin Yu**, Rongye Shi, Yongkai Tian,Simin Li,Shuhao Liao, Wenjun Wu <br> <a href="https://aaai.org/aaai-conference/">AAAI 2024 (CCF A)</a> $\vert$ <a href="../files/pse.pdf">pdf</a> $\vert$<a href="https://xinyu-site.github.io/PSE/"> Project page</a>
+2. **ESP: Exploiting Symmetry Prior for Multi-Agent
 Reinforcement Learning** <br>**Xin Yu**, Rongye Shi, Pu Feng, Yongkai Tian, Jie Luo, Wenjun Wu <br><a href="https://ecai2023.eu/">ECAI 2023 (CCF B)</a> $\vert$ <a href="../files/ecai.pdf">pdf</a> $\vert$<a href="https://xinyu-site.github.io/esp-marl"> Project page</a>
-2. **Swarm inverse reinforcement learning for biological systems** <br>**Xin Yu**, Pu Feng, Yongkai Tian, Wenjun Wu<br><a href="https://ieeebibm.org/BIBM2021/">BIBM 2021 (CCF B)</a> $\vert$ <a href="../files/bibm.pdf">pdf</a> 
-3. **Leveraging Partial Symmetry for Multi-Agent Reinforcement Learning** <br>**Xin Yu**, Rongye Shi, Yongkai Tian,Simin Li,Shuhao Liao, Wenjun Wu <br> (Accepted by AAAI 2024)
+3. **Swarm inverse reinforcement learning for biological systems** <br>**Xin Yu**, Pu Feng, Yongkai Tian, Wenjun Wu<br><a href="https://ieeebibm.org/BIBM2021/">BIBM 2021 (CCF B)</a> $\vert$ <a href="../files/bibm.pdf">pdf</a> 
 4. **AdaptAUG: Adaptive Data Augmentation Framework for Multi-Agent Reinforcement Learning** <br>**Xin Yu**,Yongkai Tian, Li Wang, Pu Feng, Wenjun Wu, Rongye Shi<br>  (Submitted to ICRA 2024)
 5. **Safe and efficient multi-agent collision avoidance with physics-informed reinforcement learning**,<br>Pu Feng, Rongye Shi, Size Wang, Junkang Liang,**Xin Yu**, Wenjun Wu <br> (Submitted to ICRA 2024)
 6. **MACT: Multi-agent Collision Avoidance with Continuous Transition Reinforcement Learning via Mixup** <br>Pu Feng, **Xin Yu**, Junkang Liang, Wenjun Wu, Yongkai Tian. <br><a href="https://link.springer.com/conference/swarm">ICSI</a> $\vert$ <a href="../files/icsi.pdf">pdf</a>
