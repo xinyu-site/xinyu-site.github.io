@@ -16,8 +16,9 @@ My research focuses on multi-agent reinforcement learning. My goal is to enhance
 
 Recent News
 ======
+<p style="font-size:18px"> <strong>[2023.12]</strong> One co-authored paper on robust MARL accepted by ICLR2024.</p>
 <p style="font-size:18px"> <strong>[2023.12]</strong> One first-authored paper on physical-informed MARL accepted by AAAI2024.</p>
-<p style="font-size:18px"> <strong>[2023.12]</strong> One Co-authored paper on reinforcement learning accepted by ICDE2024.</p>
+<p style="font-size:18px"> <strong>[2023.12]</strong> One co-authored paper on reinforcement learning accepted by ICDE2024.</p>
 <p style="font-size:18px"> <strong>[2023.11]</strong> One co-authored paper on robust MARL submitted to TCYB.</p>
 <p style="font-size:18px"> <strong>[2023.09]</strong> One first-authored paper on Multi-robot submitted to ICRA 2024.</p>
 <p style="font-size:18px"> <strong>[2023.07]</strong> One first-authored paper on physical-informed MARL accepted by ECAI 2023.</p>
@@ -34,10 +35,9 @@ Publications
 5. **Safe and efficient multi-agent collision avoidance with physics-informed reinforcement learning**,<br>Pu Feng, Rongye Shi, Size Wang, Junkang Liang,**Xin Yu**, Wenjun Wu <br> (Submitted to ICRA 2024)
 6. **GraphRARE: Reinforcement Learning Enhanced Graph Neural Network with Relative Entropy** <br>Tianhao Peng , Wenjun Wu, Haitao Yuan, Zhifeng Bao , Zhao Pengrui , **Xin Yu** , Xuetao Lin , Yu Liang , Yanjun Pu
  <br> <a href="https://icde2024.github.io/">ICDE 2024 (CCF A)</a> $\vert$ <a href="../files/graphrare.pdf">pdf</a> 
-1. **MACT: Multi-agent Collision Avoidance with Continuous Transition Reinforcement Learning via Mixup** <br>Pu Feng, **Xin Yu**, Junkang Liang, Wenjun Wu, Yongkai Tian. <br><a href="https://link.springer.com/conference/swarm">ICSI</a> $\vert$ <a href="../files/icsi.pdf">pdf</a>
-2. **Byzantine Robust Cooperative Multi-Agent Reinforcement Learning as a Bayesian Game** <br>Simin Li, Jun Guo, Jingqiao Xiu, **Xu Yu**, Jiakai Wang, Aishan Liu, Yaodong Yang, Xianglong Liu<br>
-<a href="https://arxiv.org/pdf/2305.12872.pdf">arXiv preprint</a> (Submitted to ICLR 2024)
-1. **Attacking Cooperative Multi-Agent Reinforcement Learning by Adversarial Minority Influence** <br>Simin Li, Jun Guo, Jingqiao Xiu, Pu Feng, **Xin Yu**, Jiakai Wang, Aishan Liu, Wenjun Wu, Xianglong Liu<br>
+7. **Byzantine Robust Cooperative Multi-Agent Reinforcement Learning as a Bayesian Game** <br>Simin Li, Jun Guo, Jingqiao Xiu, **Xu Yu**, Jiakai Wang, Aishan Liu, Yaodong Yang, Xianglong Liu<br><a href="https://arxiv.org/pdf/2305.12872.pdf">arXiv preprint</a> (Accepted by ICLR 2024)
+8. **MACT: Multi-agent Collision Avoidance with Continuous Transition Reinforcement Learning via Mixup** <br>Pu Feng, **Xin Yu**, Junkang Liang, Wenjun Wu, Yongkai Tian. <br><a href="https://link.springer.com/conference/swarm">ICSI</a> $\vert$ <a href="../files/icsi.pdf">pdf</a>
+9. **Attacking Cooperative Multi-Agent Reinforcement Learning by Adversarial Minority Influence** <br>Simin Li, Jun Guo, Jingqiao Xiu, Pu Feng, **Xin Yu**, Jiakai Wang, Aishan Liu, Wenjun Wu, Xianglong Liu<br>
 <a href="https://arxiv.org/pdf/2302.03322.pdf">arXiv preprint</a> (Submitted to TCYB)
 
 Book

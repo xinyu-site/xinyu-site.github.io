@@ -50,5 +50,4 @@ Teaching
   
 Service and leadership
 ======
-* Conference Reviewers of ECAI
-* Conference Reviewers of ECML-PKDD
+* Conference Reviewers of ECAI、ICAPS、ECML-PKDD
