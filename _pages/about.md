@@ -16,12 +16,11 @@ My research focuses on multi-agent reinforcement learning. My goal is to enhance
 
 Recent News
 ======
-<p style="font-size:18px"> <strong>[2024.1]</strong> One first-authored paper on MARL accepted by ICRA2024.</p>
+<p style="font-size:18px"> <strong>[2024.1]</strong> One first-authored paper on Multi-robot accepted by ICRA2024.</p>
 <p style="font-size:18px"> <strong>[2023.12]</strong> One co-authored paper on robust MARL accepted by ICLR2024.</p>
 <p style="font-size:18px"> <strong>[2023.12]</strong> One first-authored paper on physical-informed MARL accepted by AAAI2024.</p>
 <p style="font-size:18px"> <strong>[2023.12]</strong> One co-authored paper on reinforcement learning accepted by ICDE2024.</p>
 <p style="font-size:18px"> <strong>[2023.11]</strong> One co-authored paper on robust MARL submitted to TCYB.</p>
-<p style="font-size:18px"> <strong>[2023.09]</strong> One first-authored paper on Multi-robot submitted to ICRA 2024.</p>
 <p style="font-size:18px"> <strong>[2023.07]</strong> One first-authored paper on physical-informed MARL accepted by ECAI 2023.</p>
 <p style="font-size:18px"> <strong>[2023.06]</strong> One co-authored paper on efficient MARL accepted by ICSI 2023.</p>
 
