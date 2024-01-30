@@ -16,7 +16,7 @@ My research focuses on multi-agent reinforcement learning. My goal is to enhance
 
 Recent News
 ======
-<p style="font-size:18px"> <strong>[2023.12]</strong> One first-authored paper on MARL accepted by ICRA2024.</p>
+<p style="font-size:18px"> <strong>[2024.1]</strong> One first-authored paper on MARL accepted by ICRA2024.</p>
 <p style="font-size:18px"> <strong>[2023.12]</strong> One co-authored paper on robust MARL accepted by ICLR2024.</p>
 <p style="font-size:18px"> <strong>[2023.12]</strong> One first-authored paper on physical-informed MARL accepted by AAAI2024.</p>
 <p style="font-size:18px"> <strong>[2023.12]</strong> One co-authored paper on reinforcement learning accepted by ICDE2024.</p>
@@ -34,7 +34,7 @@ Publications
 3. **Swarm inverse reinforcement learning for biological systems** <br>**Xin Yu**, Pu Feng, Yongkai Tian, Wenjun Wu<br><a href="https://ieeebibm.org/BIBM2021/">BIBM 2021 (CCF B)</a> $\vert$ <a href="../files/bibm.pdf">pdf</a> 
 4. **AdaptAUG: Adaptive Data Augmentation Framework for Multi-Agent Reinforcement Learning** <br>**Xin Yu**,Yongkai Tian, Li Wang, Pu Feng, Wenjun Wu, Rongye Shi<br> <a href="https://2024.ieee-icra.org/">Accepted by ICRA 2024 (CCF B)</a> 
 
-9. **GraphRARE: Reinforcement Learning Enhanced Graph Neural Network with Relative Entropy** <br>Tianhao Peng , Wenjun Wu, Haitao Yuan, Zhifeng Bao , Zhao Pengrui , **Xin Yu** , Xuetao Lin , Yu Liang , Yanjun Pu
+5. **GraphRARE: Reinforcement Learning Enhanced Graph Neural Network with Relative Entropy** <br>Tianhao Peng , Wenjun Wu, Haitao Yuan, Zhifeng Bao , Zhao Pengrui , **Xin Yu** , Xuetao Lin , Yu Liang , Yanjun Pu
  <br> <a href="https://icde2024.github.io/">ICDE 2024 (CCF A)</a> $\vert$ <a href="../files/graphrare.pdf">pdf</a> 
 1. **Byzantine Robust Cooperative Multi-Agent Reinforcement Learning as a Bayesian Game** <br>Simin Li, Jun Guo, Jingqiao Xiu, **Xu Yu**, Jiakai Wang, Aishan Liu, Yaodong Yang, Xianglong Liu<br><a href="https://arxiv.org/pdf/2305.12872.pdf">arXiv preprint</a> (Accepted by ICLR 2024)
 2. **MACT: Multi-agent Collision Avoidance with Continuous Transition Reinforcement Learning via Mixup** <br>Pu Feng, **Xin Yu**, Junkang Liang, Wenjun Wu, Yongkai Tian. <br><a href="https://link.springer.com/conference/swarm">ICSI</a> $\vert$ <a href="../files/icsi.pdf">pdf</a>
