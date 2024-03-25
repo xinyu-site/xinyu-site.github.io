@@ -12,15 +12,14 @@ My name is pronounced as shin-yoo. I am a Ph.D. student at the State Key Laborat
 
 Research
 ======
-My research focuses on multi-agent reinforcement learning. My goal is to enhance the performance of reinforcement learning by leveraging prior knowledge, particularly physics knowledge. Additionally, I have a strong interest in the robustness of multi-agent reinforcement learning.
+My research focuses on controlling multi-robot systems through multi-agent reinforcement learning (MARL). To address the practical training challenges of reinforcement learning (RL), I integrate domain expertise with RL to improve sample efficiency and convergence. This strategy not only mitigates the practical training constraints of RL but also expands the applicability of MARL in multi-robot operations, aiming to significantly advance the field. In addition, I am interested in imitation learning, embodiment intelligence based on large language models (LLM), and robust MARL.
 
 Recent News
 ======
-<p style="font-size:18px"> <strong>[2024.01]</strong> One first-authored paper on Multi-robot accepted by ICRA2024.</p>
-<p style="font-size:18px"> <strong>[2023.12]</strong> One co-authored paper on robust MARL accepted by ICLR2024.</p>
-<p style="font-size:18px"> <strong>[2023.12]</strong> One first-authored paper on physical-informed MARL accepted by AAAI2024.</p>
-<p style="font-size:18px"> <strong>[2023.12]</strong> One co-authored paper on reinforcement learning accepted by ICDE2024.</p>
-<p style="font-size:18px"> <strong>[2023.11]</strong> One co-authored paper on robust MARL submitted to TCYB.</p>
+<p style="font-size:18px"> <strong>[2024.01]</strong> One first-authored paper on Multi-robot accepted by ICRA 2024.</p>
+<p style="font-size:18px"> <strong>[2023.12]</strong> One co-authored paper on robust MARL accepted by ICLR 2024.</p>
+<p style="font-size:18px"> <strong>[2023.12]</strong> One first-authored paper on physical-informed MARL accepted by AAAI 2024.</p>
+<p style="font-size:18px"> <strong>[2023.12]</strong> One co-authored paper on reinforcement learning accepted by ICDE 2024.</p>
 <p style="font-size:18px"> <strong>[2023.07]</strong> One first-authored paper on physical-informed MARL accepted by ECAI 2023.</p>
 <p style="font-size:18px"> <strong>[2023.06]</strong> One co-authored paper on efficient MARL accepted by ICSI 2023.</p>
 
@@ -35,11 +34,24 @@ Publications
 
 5. **GraphRARE: Reinforcement Learning Enhanced Graph Neural Network with Relative Entropy** <br>Tianhao Peng , Wenjun Wu, Haitao Yuan, Zhifeng Bao , Zhao Pengrui , **Xin Yu** , Xuetao Lin , Yu Liang , Yanjun Pu
  <br> <a href="https://icde2024.github.io/">ICDE 2024 (CCF A)</a> $\vert$ <a href="../files/graphrare.pdf">pdf</a> 
-1. **Byzantine Robust Cooperative Multi-Agent Reinforcement Learning as a Bayesian Game** <br>Simin Li, Jun Guo, Jingqiao Xiu, **Xu Yu**, Jiakai Wang, Aishan Liu, Yaodong Yang, Xianglong Liu<br><a href="https://arxiv.org/pdf/2305.12872.pdf">arXiv preprint</a> (Accepted by ICLR 2024)
+1. **Byzantine Robust Cooperative Multi-Agent Reinforcement Learning as a Bayesian Game** <br>Simin Li, Jun Guo, Jingqiao Xiu, **Xu Yu**, Jiakai Wang, Aishan Liu, Yaodong Yang, Xianglong Liu<br><a href="https://arxiv.org/pdf/2305.12872.pdf">ICLR 2024</a>
 2. **MACT: Multi-agent Collision Avoidance with Continuous Transition Reinforcement Learning via Mixup** <br>Pu Feng, **Xin Yu**, Junkang Liang, Wenjun Wu, Yongkai Tian. <br><a href="https://link.springer.com/conference/swarm">ICSI</a> $\vert$ <a href="../files/icsi.pdf">pdf</a>
 3. **Attacking Cooperative Multi-Agent Reinforcement Learning by Adversarial Minority Influence** <br>Simin Li, Jun Guo, Jingqiao Xiu, Pu Feng, **Xin Yu**, Jiakai Wang, Aishan Liu, Wenjun Wu, Xianglong Liu<br>
 <a href="https://arxiv.org/pdf/2302.03322.pdf">arXiv preprint</a> (Submitted to TCYB)
 
+
+Work in Progress
+======
+1. Exploiting Spatio-Temporal Symmetry for Multi-Agent Reinforcement Learning <br>**Xin Yu**, Rongye Shi, Yongkai Tian, Li Wang, Tianhao Peng, Simin Li, Pu Feng, Wenjun Wu <br> (Submitted to IJCAI 2024)
+
+2. Decentralized Multi-Agent Reinforcement Learning with Equivariant Graph Neural Network <br>**Xin Yu**, Yongkai Tian, Yandong Wang, Shuhao Liao, Pu Feng, Tianhao Peng, Rongye Shi, Wenjun Wu <br> (Submitted to IROS 2024)
+
+3. Integrating Permutation Invariance into Inverse Reinforcement Learning: A New Approach to Collective Behavior Analysis <br>**Xin Yu**, Yongkai Tian, Haoyuan Li, Tianhao Peng, Rongye Shi, Wenjun Wu <br> (Submitted to Briefings in Bioinformatics)
+
+4. Attacking Cooperative Multi-Agent Reinforcement Learning by Adversarial Minority Influence <br>Simin Li, Jun Guo, Jingqiao Xiu, Pu Feng, **Xin Yu**, Jiakai Wang, Aishan Liu, Wenjun Wu, Xianglong Liu <br> (Submitted to IEEE TCYB)
+
+5. Hierarchical Consensus-Based Multi-Agent Reinforcement Learning for Multi-Robot Cooperation Tasks <br>Pu Feng*, Junkang Liang, Size Wang, **Xin Yu**, Rongye Shi, Wenjun Wu <br>(Submitted to IROS 2024)
+   
 Book
 ======
 I am one of the writers of the book "AIDevOps: Principles and Practices of Development, Operation and Maintenance of Intelligent Microservices".
