@@ -12,7 +12,7 @@ My name is pronounced as shin-yoo. I am a Ph.D. student at the State Key Laborat
 
 Research
 ======
-My research focuses on controlling multi-robot systems through multi-agent reinforcement learning (MARL). To address the practical training challenges of reinforcement learning (RL), I integrate domain expertise with RL to improve sample efficiency and convergence. This strategy not only mitigates the practical training constraints of RL but also expands the applicability of MARL in multi-robot operations, aiming to significantly advance the field. In addition, I am interested in imitation learning, embodiment intelligence based on large language models (LLM), and robust MARL.
+My research focuses on controlling multi-robot systems through multi-agent reinforcement learning (MARL). To address the practical training challenges of reinforcement learning (RL), I integrate domain expertise with RL to improve sample efficiency and convergence. This strategy not only mitigates the practical training constraints of RL but also expands the applicability of MARL in multi-robot operations. In addition, I am interested in Imitation Learning, Embodied AI based on Large Language Models (LLM), and Robust MARL.
 
 Recent News
 ======
