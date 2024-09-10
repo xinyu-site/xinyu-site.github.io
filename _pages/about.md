@@ -17,7 +17,7 @@ My research focuses on controlling multi-robot systems through multi-agent reinf
 Recent News
 ======
 <p style="font-size:18px"> <strong>[2024.7]</strong> One co-authored paper on robust MARL accepted by ECAI 2024.</p>
-<p style="font-size:18px"> <strong>[2027.7]</strong> One co-authored paper on robust MARL accepted by IROS 2024.</p>
+<p style="font-size:18px"> <strong>[2024.7]</strong> One co-authored paper on robust MARL accepted by IROS 2024.</p>
 <p style="font-size:18px"> <strong>[2024.01]</strong> One first-authored paper on Multi-robot accepted by ICRA 2024.</p>
 <p style="font-size:18px"> <strong>[2023.12]</strong> One co-authored paper on robust MARL accepted by ICLR 2024.</p>
 <p style="font-size:18px"> <strong>[2023.12]</strong> One first-authored paper on physical-informed MARL accepted by AAAI 2024.</p>
