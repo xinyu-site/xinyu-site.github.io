@@ -14,9 +14,9 @@ Research
 ======
 My research focuses on controlling multi-robot systems through multi-agent reinforcement learning (MARL). To address the practical training challenges of reinforcement learning (RL), I integrate domain expertise with RL to improve sample efficiency and convergence. This strategy not only mitigates the practical training constraints of RL but also expands the applicability of MARL in multi-robot operations. In addition, I am interested in Imitation Learning, Embodied AI based on Large Language Models (LLM), and Robust MARL.
 
-Recent News
+Updates
 ======
-<p style="font-size:18px"><strong>[2025.3]</strong> One paper as the corresponding author on MARL accepted by IEEE Transactions on Mobile Computing.</p>
+<p style="font-size:18px"><strong>[2025.3]</strong> One paper as the corresponding author accepted by IEEE TMC.</p>
 <p style="font-size:18px"> <strong>[2024.01]</strong> One first-authored paper on multi-robot accepted by ICRA 2024.</p>
 <p style="font-size:18px"> <strong>[2023.12]</strong> One co-authored paper on robust MARL accepted by ICLR 2024.</p>
 <p style="font-size:18px"> <strong>[2023.12]</strong> One first-authored paper on physics-informed MARL accepted by AAAI 2024.</p>
