@@ -17,14 +17,12 @@ My research focuses on controlling multi-robot systems through multi-agent reinf
 Recent News
 ======
 <p style="font-size:18px"><strong>[2025.3]</strong> One paper as the corresponding author on MARL accepted by IEEE Transactions on Mobile Computing.</p>
-<p style="font-size:18px"> <strong>[2024.7]</strong> One co-authored paper on robust MARL accepted by ECAI 2024.</p>
-<p style="font-size:18px"> <strong>[2024.7]</strong> One co-authored paper on consensus MARL accepted by IROS 2024.</p>
 <p style="font-size:18px"> <strong>[2024.01]</strong> One first-authored paper on multi-robot accepted by ICRA 2024.</p>
 <p style="font-size:18px"> <strong>[2023.12]</strong> One co-authored paper on robust MARL accepted by ICLR 2024.</p>
 <p style="font-size:18px"> <strong>[2023.12]</strong> One first-authored paper on physics-informed MARL accepted by AAAI 2024.</p>
 <p style="font-size:18px"> <strong>[2023.12]</strong> One co-authored paper on reinforcement learning accepted by ICDE 2024.</p>
 <p style="font-size:18px"> <strong>[2023.07]</strong> One first-authored paper on physics-informed MARL accepted by ECAI 2023.</p>
-<p style="font-size:18px"> <strong>[2023.06]</strong> One co-authored paper on efficient MARL accepted by ICSI 2023.</p>
+
 
 
 Publications
@@ -39,8 +37,8 @@ Publications
 7. **GraphRARE: Reinforcement Learning Enhanced Graph Neural Network with Relative Entropy** <br>Tianhao Peng , Wenjun Wu, Haitao Yuan, Zhifeng Bao , Zhao Pengrui , **Xin Yu** , Xuetao Lin , Yu Liang , Yanjun Pu
  <br> <a href="https://icde2024.github.io/">ICDE 2024 (CCF A)</a> $\vert$ <a href="../files/graphrare.pdf">pdf</a> 
 8. **Byzantine Robust Cooperative Multi-Agent Reinforcement Learning as a Bayesian Game** <br>Simin Li, Jun Guo, Jingqiao Xiu, **Xu Yu**, Jiakai Wang, Aishan Liu, Yaodong Yang, Xianglong Liu<br><a href="https://arxiv.org/pdf/2305.12872.pdf">ICLR 2024</a>
-9. **MACT: Multi-agent Collision Avoidance with Continuous Transition Reinforcement Learning via Mixup** <br>Pu Feng, **Xin Yu**, Junkang Liang, Wenjun Wu, Yongkai Tian. <br><a href="https://link.springer.com/conference/swarm">ICSI</a> $\vert$ <a href="../files/icsi.pdf">pdf</a>
-10. **Safe and Efficient Multi-Agent Collision Avoidance with Physics-Informed Reinforcement Learning** <br> P. Feng, R. Shi, S. Wang, J. Liang, **X. Yu**, S. Li, W. Wu <br> IEEE Robotics and Automation Letters  
+9. **Safe and Efficient Multi-Agent Collision Avoidance with Physics-Informed Reinforcement Learning** <br> Pu Feng, Rongye Shi, Size Wang, Junkang Liang, **Xin Yu**, Simin Li, Wenjun Wu <br><a href="https://ieeexplore.ieee.org/abstract/document/10737374/">IEEE Robotics and Automation Letters </a>  
+10. **MACT: Multi-agent Collision Avoidance with Continuous Transition Reinforcement Learning via Mixup** <br>Pu Feng, **Xin Yu**, Junkang Liang, Wenjun Wu, Yongkai Tian. <br><a href="https://link.springer.com/conference/swarm">ICSI</a> $\vert$ <a href="../files/icsi.pdf">pdf</a>
 
 
 
