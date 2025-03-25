@@ -30,8 +30,8 @@ Recent News
 Publications
 ======
 1. **Leveraging Partial Symmetry for Multi-Agent Reinforcement Learning** <br>**Xin Yu**, Rongye Shi, Yongkai Tian,Simin Li,Shuhao Liao, Wenjun Wu <br> <a href="https://aaai.org/aaai-conference/">AAAI 2024 (CCF A)</a> $\vert$ <a href="../files/pse.pdf">pdf</a> $\vert$<a href="https://xinyu-site.github.io/PSE/"> Project page</a>
-2. **Symmetry-Informed MARL: A Decentralized and Cooperative UAV Swarm Control Approach for Communication Coverage**<br> Rongye Shi, **Xin Yu✝**, Yifan Wang, Yongkai Tian, Zhiwei Liu, Wenjun Wu, Xiaoping Zhang, Manuela M. Veloso <br> 
-<a href="https://ieeexplore.ieee.org/abstract/document/10935710">IEEE Transactions on Mobile Computing (CCF-A, ✝ Corresponding Author)</a>
+2. **Symmetry-Informed MARL: A Decentralized and Cooperative UAV Swarm Control Approach for Communication Coverage**<br> Rongye Shi, **Xin Yu✝**, Yandong Wang, Yongkai Tian, Zhenyu Liu, Wenjun Wu, Xiaoping Zhang, Manuela M. Veloso (✝ Corresponding Author) <br> 
+<a href="https://ieeexplore.ieee.org/abstract/document/10935710">IEEE Transactions on Mobile Computing, 2025. (CCF-A)</a>
 1. **ESP: Exploiting Symmetry Prior for Multi-Agent Reinforcement Learning** <br>**Xin Yu**, Rongye Shi, Pu Feng, Yongkai Tian, Jie Luo, Wenjun Wu <br><a href="https://ecai2023.eu/">ECAI 2023 (CCF B)</a> $\vert$ <a href="../files/ecai.pdf">pdf</a> $\vert$<a href="https://xinyu-site.github.io/esp-marl"> Project page</a>
 2. **Swarm inverse reinforcement learning for biological systems** <br>**Xin Yu**, Pu Feng, Yongkai Tian, Wenjun Wu<br><a href="https://ieeebibm.org/BIBM2021/">BIBM 2021 (CCF B)</a> $\vert$ <a href="../files/bibm.pdf">pdf</a> 
 3. **AdaptAUG: Adaptive Data Augmentation Framework for Multi-Agent Reinforcement Learning** <br>**Xin Yu**,Yongkai Tian, Li Wang, Pu Feng, Wenjun Wu, Rongye Shi<br> <a href="https://2024.ieee-icra.org/">ICRA 2024 (CCF B)</a> $\vert$ <a href="../files/AdaptAUG.pdf">pdf</a> $\vert$<a href="https://xinyu-site.github.io/AdaptAUG/"> Project page</a>
