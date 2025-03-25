@@ -30,16 +30,15 @@ Recent News
 Publications
 ======
 1. **Leveraging Partial Symmetry for Multi-Agent Reinforcement Learning** <br>**Xin Yu**, Rongye Shi, Yongkai Tian,Simin Li,Shuhao Liao, Wenjun Wu <br> <a href="https://aaai.org/aaai-conference/">AAAI 2024 (CCF A)</a> $\vert$ <a href="../files/pse.pdf">pdf</a> $\vert$<a href="https://xinyu-site.github.io/PSE/"> Project page</a>
-2. **Symmetry-Informed MARL: A Decentralized and Cooperative UAV Swarm Control Approach for Communication Coverage** <br>  
-Rongye Shi, **Xin Yu✝**, Yifan Wang, Yongkai Tian, Zhiwei Liu, Wenjun Wu, Xiaoping Zhang, Manuela M. Veloso <br>  
-<a href="https://ieeexplore.ieee.org/abstract/document/10935710">IEEE Transactions on Mobile Computing (TMC CCF-A, ✝ corresponding author)), 2025</a>
-3. **ESP: Exploiting Symmetry Prior for Multi-Agent Reinforcement Learning** <br>**Xin Yu**, Rongye Shi, Pu Feng, Yongkai Tian, Jie Luo, Wenjun Wu <br><a href="https://ecai2023.eu/">ECAI 2023 (CCF B)</a> $\vert$ <a href="../files/ecai.pdf">pdf</a> $\vert$<a href="https://xinyu-site.github.io/esp-marl"> Project page</a>
-4. **Swarm inverse reinforcement learning for biological systems** <br>**Xin Yu**, Pu Feng, Yongkai Tian, Wenjun Wu<br><a href="https://ieeebibm.org/BIBM2021/">BIBM 2021 (CCF B)</a> $\vert$ <a href="../files/bibm.pdf">pdf</a> 
-5. **AdaptAUG: Adaptive Data Augmentation Framework for Multi-Agent Reinforcement Learning** <br>**Xin Yu**,Yongkai Tian, Li Wang, Pu Feng, Wenjun Wu, Rongye Shi<br> <a href="https://2024.ieee-icra.org/">ICRA 2024 (CCF B)</a> $\vert$ <a href="../files/AdaptAUG.pdf">pdf</a> $\vert$<a href="https://xinyu-site.github.io/AdaptAUG/"> Project page</a>
-6. **GraphRARE: Reinforcement Learning Enhanced Graph Neural Network with Relative Entropy** <br>Tianhao Peng , Wenjun Wu, Haitao Yuan, Zhifeng Bao , Zhao Pengrui , **Xin Yu** , Xuetao Lin , Yu Liang , Yanjun Pu
+2. **Symmetry-Informed MARL: A Decentralized and Cooperative UAV Swarm Control Approach for Communication Coverage**<br> Rongye Shi, **Xin Yu✝**, Yifan Wang, Yongkai Tian, Zhiwei Liu, Wenjun Wu, Xiaoping Zhang, Manuela M. Veloso <br> 
+<a href="https://ieeexplore.ieee.org/abstract/document/10935710">IEEE Transactions on Mobile Computing (CCF-A, ✝ Corresponding Author)</a>
+1. **ESP: Exploiting Symmetry Prior for Multi-Agent Reinforcement Learning** <br>**Xin Yu**, Rongye Shi, Pu Feng, Yongkai Tian, Jie Luo, Wenjun Wu <br><a href="https://ecai2023.eu/">ECAI 2023 (CCF B)</a> $\vert$ <a href="../files/ecai.pdf">pdf</a> $\vert$<a href="https://xinyu-site.github.io/esp-marl"> Project page</a>
+2. **Swarm inverse reinforcement learning for biological systems** <br>**Xin Yu**, Pu Feng, Yongkai Tian, Wenjun Wu<br><a href="https://ieeebibm.org/BIBM2021/">BIBM 2021 (CCF B)</a> $\vert$ <a href="../files/bibm.pdf">pdf</a> 
+3. **AdaptAUG: Adaptive Data Augmentation Framework for Multi-Agent Reinforcement Learning** <br>**Xin Yu**,Yongkai Tian, Li Wang, Pu Feng, Wenjun Wu, Rongye Shi<br> <a href="https://2024.ieee-icra.org/">ICRA 2024 (CCF B)</a> $\vert$ <a href="../files/AdaptAUG.pdf">pdf</a> $\vert$<a href="https://xinyu-site.github.io/AdaptAUG/"> Project page</a>
+4. **GraphRARE: Reinforcement Learning Enhanced Graph Neural Network with Relative Entropy** <br>Tianhao Peng , Wenjun Wu, Haitao Yuan, Zhifeng Bao , Zhao Pengrui , **Xin Yu** , Xuetao Lin , Yu Liang , Yanjun Pu
  <br> <a href="https://icde2024.github.io/">ICDE 2024 (CCF A)</a> $\vert$ <a href="../files/graphrare.pdf">pdf</a> 
-7. **Byzantine Robust Cooperative Multi-Agent Reinforcement Learning as a Bayesian Game** <br>Simin Li, Jun Guo, Jingqiao Xiu, **Xu Yu**, Jiakai Wang, Aishan Liu, Yaodong Yang, Xianglong Liu<br><a href="https://arxiv.org/pdf/2305.12872.pdf">ICLR 2024</a>
-8. **MACT: Multi-agent Collision Avoidance with Continuous Transition Reinforcement Learning via Mixup** <br>Pu Feng, **Xin Yu**, Junkang Liang, Wenjun Wu, Yongkai Tian. <br><a href="https://link.springer.com/conference/swarm">ICSI</a> $\vert$ <a href="../files/icsi.pdf">pdf</a>
+1. **Byzantine Robust Cooperative Multi-Agent Reinforcement Learning as a Bayesian Game** <br>Simin Li, Jun Guo, Jingqiao Xiu, **Xu Yu**, Jiakai Wang, Aishan Liu, Yaodong Yang, Xianglong Liu<br><a href="https://arxiv.org/pdf/2305.12872.pdf">ICLR 2024</a>
+2. **MACT: Multi-agent Collision Avoidance with Continuous Transition Reinforcement Learning via Mixup** <br>Pu Feng, **Xin Yu**, Junkang Liang, Wenjun Wu, Yongkai Tian. <br><a href="https://link.springer.com/conference/swarm">ICSI</a> $\vert$ <a href="../files/icsi.pdf">pdf</a>
 3. **Attacking Cooperative Multi-Agent Reinforcement Learning by Adversarial Minority Influence** <br>Simin Li, Jun Guo, Jingqiao Xiu, Pu Feng, **Xin Yu**, Jiakai Wang, Aishan Liu, Wenjun Wu, Xianglong Liu<br>
 <a href="https://arxiv.org/pdf/2302.03322.pdf">arXiv preprint</a> 
 
@@ -55,19 +54,9 @@ Work in Progress
 4. Integrating Permutation Invariance into Inverse Reinforcement Learning: A New Approach to Collective Behavior Analysis <br>**Xin Yu**, Yongkai Tian, Haoyuan Li, Tianhao Peng, Rongye Shi, Wenjun Wu <br> 
    
 
-   
 Book
 ======
-I am one of the writers of the book "AIDevOps: Principles and Practices of Development, Operation and Maintenance of Intelligent Microservices".
-
-Projects
-======
-  <li><strong>[Science and Technology Innovation 2030 Major Project]</strong> I participated in the "Research on crowd intelligence inspired convergence for crowd behavior" project.     
-  </li>
-  
-  <li><strong>[National Key R&D Program of China]</strong> I participated in the "Intelligent Service Adaptation Theory and Key Technologies" project. 
-</li>
-
+I am one of the authors of the book "AIDevOps: Principles and Practices of Development, Operation and Maintenance of Intelligent Microservices".
 
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=58lr1i1agak&amp;m=0&amp;c=007eff&amp;cr1=ff0000&amp;sx=0" async="async"></script>
