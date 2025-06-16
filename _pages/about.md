@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Assistant Researcher at the Institute of Automation, Chinese Academy of Sciences. Previously, I received my Ph.D. from the School of Computer Science and Engineering (SCSE) , Beihang University, Beijing, China, under the supervision of Prof. <a href="https://www.researchgate.net/profile/Wenjun-Wu-15">Wenjun Wu</a>.
+I am an assistant professor at the Institute of Automation, Chinese Academy of Sciences. Previously, I received my Ph.D. from the School of Computer Science and Engineering (SCSE) , Beihang University, Beijing, China, under the supervision of Prof. <a href="https://www.researchgate.net/profile/Wenjun-Wu-15">Wenjun Wu</a>.
 
 
 Research
@@ -31,14 +31,14 @@ Selected Publications
 1. **Leveraging Partial Symmetry for Multi-Agent Reinforcement Learning** <br>**Xin Yu**, Rongye Shi, Yongkai Tian,Simin Li,Shuhao Liao, Wenjun Wu <br> <a href="https://aaai.org/aaai-conference/">AAAI 2024 (CCF A)</a> $\vert$ <a href="../files/pse.pdf">pdf</a> $\vert$<a href="https://xinyu-site.github.io/PSE/"> Project page</a>
 2. **Symmetry-Informed MARL: A Decentralized and Cooperative UAV Swarm Control Approach for Communication Coverage**<br> Rongye Shi, **Xin Yu✝**, Yandong Wang, Yongkai Tian, Zhenyu Liu, Wenjun Wu, Xiaoping Zhang, Manuela M. Veloso (✝ Corresponding Author) <br> 
 <a href="https://ieeexplore.ieee.org/abstract/document/10935710">IEEE Transactions on Mobile Computing, 2025. (CCF-A)</a>
-3. **AdaptAUG: Adaptive Data Augmentation Framework for Multi-Agent Reinforcement Learning** <br>**Xin Yu**,Yongkai Tian, Li Wang, Pu Feng, Wenjun Wu, Rongye Shi<br> <a href="https://2024.ieee-icra.org/">ICRA 2024 (CCF B)</a> $\vert$ <a href="../files/AdaptAUG.pdf">pdf</a> $\vert$<a href="https://xinyu-site.github.io/AdaptAUG/"> Project page</a>
-4. **ESP: Exploiting Symmetry Prior for Multi-Agent Reinforcement Learning** <br>**Xin Yu**, Rongye Shi, Pu Feng, Yongkai Tian, Jie Luo, Wenjun Wu <br><a href="https://ecai2023.eu/">ECAI 2023 (CCF B)</a> $\vert$ <a href="../files/ecai.pdf">pdf</a> $\vert$<a href="https://xinyu-site.github.io/esp-marl"> Project page</a>
-5. **CLGA: A Collaborative LLM Framework for Dynamic Goal Assignment in Multi-Robot Systems** <br>**Xin Yu**, Haoyuan Li, Yandong Wang, Simin Li, Rongye Shi, Wenjun Wu<br><a href="https://www.iros25.org/">IROS 2025 (CCF C)</a> $\vert$ <a href="https://sites.google.com/view/project-clga/"> Project page</a>
-6. **Swarm inverse reinforcement learning for biological systems** <br>**Xin Yu**, Pu Feng, Yongkai Tian, Wenjun Wu<br><a href="https://ieeebibm.org/BIBM2021/">BIBM 2021 (CCF B)</a> $\vert$ <a href="../files/bibm.pdf">pdf</a> 
-7. **面向群体共识机制的逆强化学习辨识方法**<br>**于鑫**,吴文峻,罗杰,李未<br> 中国科学：技术科学, 2023, 53(2): 258-267.  
-8. **Byzantine Robust Cooperative Multi-Agent Reinforcement Learning as a Bayesian Game** <br>Simin Li, Jun Guo, Jingqiao Xiu, **Xu Yu**, Jiakai Wang, Aishan Liu, Yaodong Yang, Xianglong Liu<br><a href="https://arxiv.org/pdf/2305.12872.pdf">ICLR 2024</a>
-9. **Safe and Efficient Multi-Agent Collision Avoidance with Physics-Informed Reinforcement Learning** <br> Pu Feng, Rongye Shi, Size Wang, Junkang Liang, **Xin Yu**, Simin Li, Wenjun Wu <br><a href="https://ieeexplore.ieee.org/abstract/document/10737374/">IEEE Robotics and Automation Letters </a>  
-10. **GraphRARE: Reinforcement Learning Enhanced Graph Neural Network with Relative Entropy** <br>Tianhao Peng , Wenjun Wu, Haitao Yuan, Zhifeng Bao , Zhao Pengrui , **Xin Yu** , Xuetao Lin , Yu Liang , Yanjun Pu
+1. **AdaptAUG: Adaptive Data Augmentation Framework for Multi-Agent Reinforcement Learning** <br>**Xin Yu**,Yongkai Tian, Li Wang, Pu Feng, Wenjun Wu, Rongye Shi<br> <a href="https://2024.ieee-icra.org/">ICRA 2024 (CCF B)</a> $\vert$ <a href="../files/AdaptAUG.pdf">pdf</a> $\vert$<a href="https://xinyu-site.github.io/AdaptAUG/"> Project page</a>
+2. **ESP: Exploiting Symmetry Prior for Multi-Agent Reinforcement Learning** <br>**Xin Yu**, Rongye Shi, Pu Feng, Yongkai Tian, Jie Luo, Wenjun Wu <br><a href="https://ecai2023.eu/">ECAI 2023 (CCF B)</a> $\vert$ <a href="../files/ecai.pdf">pdf</a> $\vert$<a href="https://xinyu-site.github.io/esp-marl"> Project page</a>
+3. **CLGA: A Collaborative LLM Framework for Dynamic Goal Assignment in Multi-Robot Systems** <br>**Xin Yu**, Haoyuan Li, Yandong Wang, Simin Li, Rongye Shi, Wenjun Wu<br><a href="https://www.iros25.org/">IROS 2025 (CCF C)</a> $\vert$ <a href="https://sites.google.com/view/project-clga/"> Project page</a>
+4. **Swarm inverse reinforcement learning for biological systems** <br>**Xin Yu**, Pu Feng, Yongkai Tian, Wenjun Wu<br><a href="https://ieeebibm.org/BIBM2021/">BIBM 2021 (CCF B)</a> $\vert$ <a href="../files/bibm.pdf">pdf</a> 
+5. **面向群体共识机制的逆强化学习辨识方法**<br>**于鑫**,吴文峻,罗杰,李未<br> 中国科学：技术科学, 2023, 53(2): 258-267.  
+6. **Byzantine Robust Cooperative Multi-Agent Reinforcement Learning as a Bayesian Game** <br>Simin Li, Jun Guo, Jingqiao Xiu, **Xu Yu**, Jiakai Wang, Aishan Liu, Yaodong Yang, Xianglong Liu<br><a href="https://arxiv.org/pdf/2305.12872.pdf">ICLR 2024</a>
+7. **Safe and Efficient Multi-Agent Collision Avoidance with Physics-Informed Reinforcement Learning** <br> Pu Feng, Rongye Shi, Size Wang, Junkang Liang, **Xin Yu**, Simin Li, Wenjun Wu <br><a href="https://ieeexplore.ieee.org/abstract/document/10737374/">IEEE Robotics and Automation Letters </a>  
+8.  **GraphRARE: Reinforcement Learning Enhanced Graph Neural Network with Relative Entropy** <br>Tianhao Peng , Wenjun Wu, Haitao Yuan, Zhifeng Bao , Zhao Pengrui , **Xin Yu** , Xuetao Lin , Yu Liang , Yanjun Pu
  <br> <a href="https://icde2024.github.io/">ICDE 2024 (CCF A)</a> $\vert$ <a href="../files/graphrare.pdf">pdf</a> 
 
 
